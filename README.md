@@ -1,0 +1,1 @@
+This is a project I am working on as part of The Odin Project course. This will allow me to work on the basics of HTML by building a basic recipes website.
